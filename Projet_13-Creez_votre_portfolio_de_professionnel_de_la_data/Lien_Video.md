@@ -15,9 +15,3 @@ https://youtu.be/0zxE6Ds3BDY
 ### ▶️ Aperçu cliquable
 
 [![Vidéo Power BI - Dashboard Aeroworld](https://img.youtube.com/vi/0zxE6Ds3BDY/maxresdefault.jpg)](https://youtu.be/0zxE6Ds3BDY)
-
----
-
-Si vous souhaitez accéder aux fichiers sources du dashboard :  
-🔗 `Tableau_de_bord.pbix`  
-🔗 `Guide de création de graphiques.pdf`  
